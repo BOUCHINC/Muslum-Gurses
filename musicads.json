@@ -26,8 +26,8 @@
         
         "AdMobBanner"         : "ca-app-pub-6953444308306842/9790700817",
         "AdMobInterstitial"   : "ca-app-pub-6953444308306842/9081431406",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobNative"         : "ca-app-pub-6953444308306842/",
+        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/",
         
         "FacebookBanner"      : "585416132508210_1397690707947411",
         "FacebookInterstitial": "585416132508210_1397690984614050",
