@@ -18,9 +18,9 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 2,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -42,91 +42,91 @@
     "adList": [
       {
         "preview": "https://play-lh.googleusercontent.com/xLmqqe1T1Mygu2x2kdV5qXn7cff4NU_EM7G8JQe5tkLri_c_qFBRfAeal_YvelG5hg=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.hayedeh1.song.hugetech"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/CXj75MNEBiNPrPjPOQTTO3fse_pvlHWJL0ld9sHQvaVH3famBxwKuks6dKxmn-0a19xO=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.mahasty.song.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/n9cs978XGN2emM7Ji_Y1qDygNcNP36X1OmcZGiqubiwnPKG7JcopTVEQ04hdYqL4RQ=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.siavash.ghomayshi.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/qDMxNRzN7yycI9CqFqz06Sqp8RZb5xV7_Bi8Ygm0k_08Ux7adfyZK8EqdVICFTqw4V0=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.morteza.pashaei.hugetech"
       },
 	  {
         "preview": "https://play-lh.googleusercontent.com/RfADIoGwFOFpGFIF0S-K2j-l93GXtP1ZjPbQdhb0uSRSP_n6uWyDd8TWNINddCKsIUU=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.iraj.song.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/OSP5sCt6_8sNGCMYBh6sGC_dd1_R6qRPWsO20qgVglcpL4DymTxws6Ax_rmxs2ooScw=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.sima.bina.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/bwei4PUU39DilFtjtZfGq7uSLioWoRoyWGTAhUERZyM8tXJ1XUM31aKvz9umIgzp0A=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.javad.yasari.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/QGefg5JkJ6-fal4tCprWIGG4MUHTSctBjDcxpVKSqNGu5pLIkCUiH0BOKed2kdBPLQ=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.iraj.bastami.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/f429cj2olnRLHkH8woXSf1Mtjga5__Q0ML_EeVX3nvDuEjsu40BCeNGlGUzH7OxHtA=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.ghezaal.enayat.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/ncOrHw4ue78JL_tDUJ7xOvX-qYkQT2EWDFVkwFJ9rIXf9otI-EM33ytA_L6GAyOpTA=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.aghasi.song.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/9E96TycahXo_2GBeL81FGOBAmBPsrdh-DXymi_iwm5DLp9vCfh2StPXZe1yo63OQMyo=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.shahin.najafi.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/bOoYSQi5xwdApTH0-2hsIk-WOJLItGuddI0AD4A6W_ssi68-PvVMg7VKJc04yOveh5Q=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.naser.razazi.bouchinc"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/t5SCrMXNsZoY3ONFBT3mHfO6Gp4b-bh_Nzgz1yZpKC_BbbbC_74XgfLMY0C1Qy96CA=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.mardih.songs.hugetech"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/ZAwh3fmA4_IvMXRESwL7nRiH2z0wZM94weIKnNszuWLu9_Bd0mKpSzOK8UigCbC4oA=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.marjan.song.hugetech"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/wi3gJhXbLSA2OCT1jWGR6UKFYD_8DpzPRajTj78lEF_EEZKRz_JiYUrfEEJpnVAi0A=w526-h296-rw",
-        "title": "خبر خوب! برنامه جدید اضافه شد",
+        "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.satin.songs.bouchinc"
       }
@@ -135,97 +135,97 @@
   
   "AppsPromote": [
     {
-      "name": "HAYEDEH SONG",
+      "name": "HAYEDEH SONG - Offline",
       "packageName": "com.hayedeh1.song.hugetech",
       "icon": "https://play-lh.googleusercontent.com/f9skY2QYLhZ-zuvxnDv86s6NajmlbJPTiW0vdETZRCdxMWSZUJo8Z_T0yPfZZjRa97M=w240-h480-rw",
       "download": "+500K"
     },
     {
-      "name": "MAHASTY SONG",
+      "name": "MAHASTY SONG - Offline",
       "packageName": "com.mahasty.song.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/jzHvIiEAIpqJoioCHT-MVThv93LXMvVmg9LxnJbXjdlVRdlAmCurxxl4aoBs9rXb-A=w240-h480-rw",
       "download": "+600K"
     },
     {
-      "name": "SIAVASH GHOMAYSHI",
+      "name": "SIAVASH GHOMAYSHI - Offline",
       "packageName": "com.siavash.ghomayshi.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/PXm7uJlK7kv_5Y8T0ERqRjdV6KVHKz0cT8qQfYIJzZI4PGHQ7fN-quHjmUqq9h6Yy1M=w240-h480-rw",
       "download": "+400K"
     },
     {
-      "name": "Shatta Wale Offline",
+      "name": "Shatta Wale - Offline",
       "packageName": "com.home.scapes2.frastudio",
       "icon": "https://play-lh.googleusercontent.com/Oo2ms_l5sjudF8jknoC2Y5Q3ZPqmiTtbMVWUFy8ubyRgdujJ6Ry18p2_bBQskqoHwRum=w240-h480-rw",
       "download": "+550K"
     },
     {
-      "name": "MORTEZA PASHAEI",
+      "name": "MORTEZA PASHAEI - Offline",
       "packageName": "com.morteza.pashaei.hugetech",
       "icon": "https://play-lh.googleusercontent.com/Pm5zq6FGvf5sg2IQbqKuTKFOyUhaiLWgL5-6IGUprrWc397tPbljZpTMq5a1WGcfdw=w240-h480-rw",
       "download": "+480K"
     },
     {
-      "name": "IRAJ SONG",
+      "name": "IRAJ SONG - Offline",
       "packageName": "com.iraj.song.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/n0xbFe73thdGCHc9686Okg1nHkb5dKWl8SVKfLeSQzzsFvw7Mmv70Lc2YCeLcsY2A1F7=w240-h480-rw",
       "download": "+280K"
     },
     {
-      "name": "SIMA BINA",
+      "name": "SIMA BINA - Offline",
       "packageName": "com.sima.bina.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/b_7RclSQEs93PpZIopp2B43Kki6Jh-tObCP6kpdOXO7Z8D2Iqr8zkvTCON-dXul6Gg=w240-h480-rw",
       "download": "+520K"
     },
     {
-      "name": "JAVAD YASARI",
+      "name": "JAVAD YASARI - Offline",
       "packageName": "com.javad.yasari.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/-oYbvgyp7d6FA012vx-aa9o5wZaW0U0aHHd7zANDZ2PFei9edLy-aGfJFD0ICZIlS20=w240-h480-rw",
       "download": "+850K"
     },
     {
-      "name": "IRAJ BASTAMI",
+      "name": "IRAJ BASTAMI - Offline",
       "packageName": "com.iraj.bastami.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/6bHza-QjEvI8NiBScTcFR2zEM8eqiZZ-UAqY3gGTehLNup-l5dcTmF-EiK9lFDt5eT9a=w240-h480-rw",
       "download": "+350K"
     },
     {
-      "name": "AGHASI SONG",
+      "name": "AGHASI SONG - Offline",
       "packageName": "com.aghasi.song.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/jsXe5nfPsEjaL8UmQxB68xGywAJl7qYlw81HhaYut-0QB9qXgAdjxQe1D6O2GEo244w=w240-h480-rw",
       "download": "+4800K"
     },
     {
-      "name": "SHAHIN NAJAFI",
+      "name": "SHAHIN NAJAFI - Offline",
       "packageName": "com.shahin.najafi.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/K62Aw9b0heSEVL8nPVNR9K4Qwl1rFhnV75mqEnVGgBQS3u9m1IeJ68wq0DxRrRtmw-Bq=w240-h480-rw",
       "download": "+250K"
     },
     {
-      "name": "NASER RAZAZI",
+      "name": "NASER RAZAZI - Offline",
       "packageName": "com.naser.razazi.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/yEo8hOSttlMpen12trSxjfxD9evidBJfHNBbiV2N6BMwDkKmM39GVvrDqD2BGQ_IjOU=w240-h480-rw",
       "download": "+550K"
     },
     {
-      "name": "MARDIH SONG",
+      "name": "MARDIH SONG - Offline",
       "packageName": "com.mardih.songs.hugetech",
       "icon": "https://play-lh.googleusercontent.com/Xlv1FaDeM0yewX5UOxjsJNPe4LfWdmC-MXJY00TP0FJw8sb1cOuv_1GC0HZsgLYMLA=w240-h480-rw",
       "download": "+680K"
     },
     {
-      "name": "GHAZAAL ENAYAT",
+      "name": "GHAZAAL ENAYAT - Offline",
       "packageName": "com.ghezaal.enayat.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/E88mm5LSW4SXYv2DM6QK3dbKUnts7Eie1at9XkMk-ebvsUfTwNsj_hygkBPErWjKp8I=w240-h480-rw",
       "download": "+280K"
     },
     {
-      "name": "MARJAN SONG",
+      "name": "MARJAN SONG - Offline",
       "packageName": "com.marjan.song.hugetech",
       "icon": "https://play-lh.googleusercontent.com/1kmfnm27eI2SWKfrc7cgHE5QWWMZxK137n4mJzyvDmxC_uKjbQdYF5-YaxLuGUKMrSc=w240-h480-rw",
       "download": "+480K"
     },
     {
-      "name": "SATIN SONG",
+      "name": "SATIN SONG - Offline",
       "packageName": "com.satin.songs.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/Qad97uBMdFfXcj8XySswux7JPpSqstBZQ4OsheMBvWQIUAAB0_VQ4SGSzOkZpy2Dog=w240-h480-rw",
       "download": "+480K"
